@@ -1,3 +1,8 @@
+/* je rajoutte des caracterzs 
+*/
+
+
+
 #include <stdio.h>
 #include <string.h>
 int main ()
